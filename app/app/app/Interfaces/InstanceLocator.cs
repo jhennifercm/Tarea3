@@ -1,4 +1,5 @@
-﻿namespace app.Interfaces
+﻿
+namespace app.Interfaces
 {
     using ViewModels;
 
